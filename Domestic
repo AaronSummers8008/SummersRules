@@ -1,0 +1,19 @@
+
+# AUTHOR: AaronSummers8008
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-07-05
+
+# NAME: Douyin
+HOST-KEYWORD,douyin,Douyin
+HOST-KEYWORD,dy,Douyin
+HOST-SUFFIX,douyin.com,Douyin
+HOST-SUFFIX,douyinpic.com,Douyin
+HOST-SUFFIX,douyinvod.com,Douyin
+HOST-SUFFIX,zijieapi.com,Douyin
+
+
+# NAME: WeChat
+HOST-KEYWORD,wechat,WeChat
+HOST-KEYWORD,weixin,WeChat
+HOST-SUFFIX,weixin.com,WeChat
+HOST-SUFFIX,weixin.qq.com,WeChat
