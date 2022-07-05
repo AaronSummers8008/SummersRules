@@ -3,4 +3,4 @@
 
 # HOST-SUFFIX,,Reject
 # HOST-KEYWORD,,Reject
-HOST-SUFFIX,ads.cdn.live,Reject
+# HOST-SUFFIX,ads.cdn.live,Reject
