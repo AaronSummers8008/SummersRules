@@ -1,6 +1,19 @@
 # source
 # https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX
 
+# NAME: PornSite
+# AUTHOR: AaronSummers8008
+HOST-SUFFIX,pornhub.com,PornSite
+HOST-SUFFIX,hjd2048.com,PornSite
+HOST-SUFFIX,laowang.vip,PornSite
+HOST-SUFFIX,sex.com,PornSite
+HOST-SUFFIX,camwhoresbay.com,PornSite
+HOST-SUFFIX,av-wiki.net,PornSite
+HOST-SUFFIX,javbus.com,PornSite
+HOST-SUFFIX,91porn.com,PornSite
+
+
+
 # NAME: YouTube
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
