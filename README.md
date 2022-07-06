@@ -3,7 +3,7 @@
 直接把`Final`配置为`Direct`,  
 而对于需要走国外代理的服务器来讲再单独编写分流规则,工作量会小很多.
 
-
+### 目录： 
 `ProxyRules.list`主要代理配置文件  
 `Reject.list`广告拦截  
 `RejectUseless`确认无效的拦截地址  
