@@ -1,16 +1,4 @@
 HOST-SUFFIX,ads.cdn.live,Reject
 HOST-SUFFIX,getui.com,Reject
 HOST-SUFFIX,umeng.com,Reject
-
-# NAME: EastMoney
-# HOST-SUFFIX,emdcadvertise-global.eastmoney.com,Reject
-# HOST-KEYWORD,bd-fireworks,Reject
-# HOST-KEYWORD,bdstatics,Reject
-# HOST-KEYWORD,advertise,Reject
-# HOST-SUFFIX,emappdata.eastmoney.com,Reject
-# HOST-SUFFIX,gbapi.eastmoney.com,Reject
-# HOST-SUFFIX,mscstorage.eastmoney.com,Reject
-# HOST-SUFFIX,emdcadvise.eastmoney.com,Reject
-# HOST-KEYWORD,gbapi-wg.eastmoney.com,Reject
-# HOST-KEYWORD,acttg.eastmoney.com,Reject
-# HOST-KEYWORD,avator.eastmoney.com,Reject
+HOST-KEYWORD,advertise,Reject
