@@ -3,3 +3,4 @@ HOST-SUFFIX,getui.com,Reject
 HOST-SUFFIX,umeng.com,Reject
 HOST-KEYWORD,bd-fireworks,Reject
 HOST-KEYWORD,bdstatics,Reject
+HOST-KEYWORD,advertise,Reject
