@@ -11,3 +11,7 @@ HOST-SUFFIX,emappdata.eastmoney.com,Reject
 HOST-SUFFIX,gbapi.eastmoney.com,Reject
 HOST-SUFFIX,mscstorage.eastmoney.com,Reject
 HOST-SUFFIX,emdcadvise.eastmoney.com,Reject
+
+HOST-KEYWORD,gbapi-wg.eastmoney.com,Reject
+HOST-KEYWORD,acttg.eastmoney.com,Reject
+HOST-KEYWORD,avator.eastmoney.com,Reject
