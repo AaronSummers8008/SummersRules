@@ -2,4 +2,5 @@ HOST-SUFFIX,ads.cdn.live,Reject
 HOST-SUFFIX,getui.com,Reject
 HOST-SUFFIX,umeng.com,Reject
 HOST-SUFFIX,cube.elemecdn.com,Reject
+HOST-SUFFIX,swdlcdn.eastmoney.com,Reject
 HOST-KEYWORD,advertise,Reject
