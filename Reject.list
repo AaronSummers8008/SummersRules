@@ -1,7 +1,6 @@
 HOST-SUFFIX,ads.cdn.live,Reject
 HOST-SUFFIX,getui.com,Reject
 HOST-SUFFIX,umeng.com,Reject
-HOST-SUFFIX,cube.elemecdn.com,Reject
 HOST-SUFFIX,swdlcdn.eastmoney.com,Reject
 HOST-KEYWORD,advertise,Reject
 # 知乎
@@ -11,3 +10,5 @@ HOST-SUFFIX,u8.hujiang.com,Reject
 # 四川移动
 HOST-SUFFIX,wap.sc.10086.cn/files/home/welcome,Reject
 HOST-SUFFIX,wap.sc.10086.cn/mmplatClientWap/actWap/welcome,Reject
+# 饿了么
+# HOST-SUFFIX,cube.elemecdn.com,Reject
