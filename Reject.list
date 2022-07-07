@@ -4,4 +4,7 @@ HOST-SUFFIX,umeng.com,Reject
 HOST-SUFFIX,cube.elemecdn.com,Reject
 HOST-SUFFIX,swdlcdn.eastmoney.com,Reject
 HOST-KEYWORD,advertise,Reject
+# 知乎
 HOST-KEYWORD,zhimg,Reject
+# 沪江词典
+HOST-SUFFIX,resu8.hjfile.cn,Reject
