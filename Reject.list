@@ -7,11 +7,11 @@ HOST-KEYWORD,advertise,Reject
 # 知乎
 HOST-KEYWORD,zhimg,Reject
 # 沪江词典
-HOST-SUFFIX,resu8.hjfile.cn,Reject
+# HOST-SUFFIX,resu8.hjfile.cn,Reject
 
-HOST-SUFFIX,u8.hujiang.com,Reject
-HOST-SUFFIX,ut.hjapi.com,Reject
-HOST-SUFFIX,mmp.hjapi.com,Reject
+# HOST-SUFFIX,u8.hujiang.com,Reject
+# HOST-SUFFIX,ut.hjapi.com,Reject
+# HOST-SUFFIX,mmp.hjapi.com,Reject
 HOST-SUFFIX,notify.hjapi.com,Reject
 # 四川移动
 HOST-SUFFIX,wap.sc.10086.cn/files/home/welcome,Reject
