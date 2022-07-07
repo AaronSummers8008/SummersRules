@@ -10,3 +10,4 @@ HOST-KEYWORD,zhimg,Reject
 HOST-SUFFIX,resu8.hjfile.cn,Reject
 # 四川移动
 HOST-SUFFIX,wap.sc.10086.cn/files/home/welcome,Reject
+HOST-SUFFIX,wap.sc.10086.cn/mmplatClientWap/actWap/welcome,Reject
