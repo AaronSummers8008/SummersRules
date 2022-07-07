@@ -8,3 +8,5 @@ HOST-KEYWORD,advertise,Reject
 HOST-KEYWORD,zhimg,Reject
 # 沪江词典
 HOST-SUFFIX,resu8.hjfile.cn,Reject
+# 四川移动
+HOST-SUFFIX,wap.sc.10086.cn/files/home/welcome,Reject
