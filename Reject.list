@@ -10,6 +10,8 @@ HOST-SUFFIX,u8.hujiang.com,Reject
 # 四川移动
 HOST-SUFFIX,wap.sc.10086.cn/files/home/welcome,Reject
 HOST-SUFFIX,wap.sc.10086.cn/mmplatClientWap/actWap/welcome,Reject
+# 链家
+HOST-SUFFIX,image1.ljcdn.com,Reject
 # 中国银联
 HOST-SUFFIX,ads.95516.com,Reject
 # 饿了么
