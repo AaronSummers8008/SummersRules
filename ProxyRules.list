@@ -1087,6 +1087,7 @@ HOST-SUFFIX,wiktionary.org,Wikipedia
 # TOTAL: 2
 HOST-SUFFIX,cdninstagram.com,Instagram
 HOST-SUFFIX,instagram.com,Instagram
+# HOST-KEYWORD,facebook,Instagram
 
 
 # NAME: Pixiv
