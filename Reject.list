@@ -8,8 +8,8 @@ HOST-KEYWORD,zhimg,Reject
 # 沪江词典
 HOST-SUFFIX,u8.hujiang.com,Reject
 # 四川移动
-#HOST-KEYWORD,wap.sc.10086.cn/files/home/welcome,Reject
-#HOST-KEYWORD,wap.sc.10086.cn/mmplatClientWap/actWap/welcome,Reject
+# HOST-KEYWORD,wap.sc.10086.cn/files/home/welcome,Reject
+# HOST-KEYWORD,wap.sc.10086.cn/mmplatClientWap/actWap/welcome,Reject
 # 链家
 # HOST-SUFFIX,image1.ljcdn.com,Reject 偶尔能屏蔽开屏广告，但是会误杀App内房源预览图
 # 中国银联
