@@ -73,7 +73,7 @@ HOST-KEYWORD,yandex,PROXY
 HOST-KEYWORD,binance,PROXY
 HOST-KEYWORD,github,PROXY
 HOST-SUFFIX,paofu.cloud,PROXY
-
+#-----------------OpenAI-----------------↓
 DOMAIN-KEYWORD,openai,US
 DOMAIN-SUFFIX,ai.com,US
 DOMAIN-SUFFIX,auth0.com,US
@@ -88,3 +88,4 @@ DOMAIN-SUFFIX,openai.com,US
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net,US
 DOMAIN-SUFFIX,sentry.io,US
 DOMAIN-SUFFIX,stripe.com,US
+#-----------------OpenAI-----------------↑
