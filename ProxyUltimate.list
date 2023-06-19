@@ -1,0 +1,40 @@
+# STORAGE: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX
+# AUTHOR: AaronSummers8008
+
+# NAME: PornSite
+HOST-SUFFIX,pornhub.com,PROXY
+HOST-SUFFIX,hjd2048.com,PROXY
+HOST-SUFFIX,laowang.vip,PROXY
+HOST-SUFFIX,sex.com,PROXY
+HOST-SUFFIX,camwhoresbay.com,PROXY
+HOST-SUFFIX,av-wiki.net,JP
+HOST-KEYWORD,javbus,PROXY
+HOST-KEYWORD,dmm,JP
+HOST-SUFFIX,91porn.com,PROXY
+HOST-SUFFIX,blacked.com,PROXY
+HOST-SUFFIX,blackedraw.com,PROXY
+HOST-SUFFIX,vixen.com,PROXY
+HOST-SUFFIX,deeper.com,PROXY
+HOST-SUFFIX,tushy.com,PROXY
+HOST-SUFFIX,tushyraw.com,PROXY
+
+# NAME: Games
+HOST-KEYWORD,steam,PROXY
+
+# NAME: Tools
+HOST-KEYWORD,binance,PROXY
+HOST-SUFFIX,paofu.cloud,PROXY
+DOMAIN-KEYWORD,openai,US
+DOMAIN-SUFFIX,ai.com,US
+DOMAIN-SUFFIX,auth0.com,US
+DOMAIN-SUFFIX,challenges.cloudflare.com,US
+DOMAIN-SUFFIX,client-api.arkoselabs.com,US
+DOMAIN-SUFFIX,events.statsigapi.net,US
+DOMAIN-SUFFIX,featuregates.org,US
+DOMAIN-SUFFIX,identrust.com,US
+DOMAIN-SUFFIX,intercom.io,US
+DOMAIN-SUFFIX,intercomcdn.com,US
+DOMAIN-SUFFIX,openai.com,US
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,US
+DOMAIN-SUFFIX,sentry.io,US
+DOMAIN-SUFFIX,stripe.com,US
