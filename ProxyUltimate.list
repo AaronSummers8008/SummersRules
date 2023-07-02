@@ -134,6 +134,8 @@ IP-CIDR,129.226.107.244/32,DIRECT
 # NAME: Tools
 HOST-KEYWORD,binance,PROXY
 HOST-KEYWORD,github,PROXY
+HOST-KEYWORD,ytoo,PROXY
+HOST-KEYWORD,oxycontin,PROXY
 HOST-SUFFIX,paofu.cloud,PROXY
 HOST-SUFFIX,v2ex.com,PROXY
 #-----------------OpenAI-----------------↓
