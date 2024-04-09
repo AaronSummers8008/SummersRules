@@ -39,7 +39,8 @@ IP-CIDR,162.62.163.63/32,DIRECT
 
 #-----------------Apple-----------------↓
 HOST-SUFFIX,buy.itunes.apple.com,DIRECT
-HOST-SUFFIX,ocsp.pki.goog.com,PROXY
+HOST-SUFFIX,buy.itunes.apple.com,DIRECT
+HOST-SUFFIX,sylvan.apple.com,PROXY
 #-----------------Apple-----------------↑
 
 # NAME: PornSite
@@ -60,7 +61,9 @@ HOST-SUFFIX,vixen.com,PROXY
 HOST-SUFFIX,deeper.com,PROXY
 HOST-SUFFIX,tushy.com,PROXY
 HOST-SUFFIX,tushyraw.com,PROXY
-
+HOST-KEYWORD,linktree,JP
+HOST-KEYWORD,onlyfans,JP
+HOST-KEYWORD,mgstage,JP
 
 # NAME: Games
 HOST-KEYWORD,steam,PROXY
