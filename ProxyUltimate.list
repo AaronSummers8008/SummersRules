@@ -43,6 +43,11 @@ HOST-SUFFIX,buy.itunes.apple.com,DIRECT
 HOST-SUFFIX,sylvan.apple.com,PROXY
 #-----------------Apple-----------------↑
 
+#-----------------Information-----------------↓
+HOST-SUFFIX,wikipedia.org,PROXY
+#-----------------Information-----------------↑
+
+
 # NAME: PornSite
 HOST-SUFFIX,pornhub.com,PROXY
 HOST-SUFFIX,hjd2048.com,PROXY
