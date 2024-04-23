@@ -44,7 +44,7 @@ HOST-SUFFIX,sylvan.apple.com,PROXY
 #-----------------Apple-----------------↑
 
 #-----------------Information-----------------↓
-HOST-SUFFIX,wikipedia.org,PROXY
+HOST-KEYWORD,wikipedia,PROXY
 #-----------------Information-----------------↑
 
 
