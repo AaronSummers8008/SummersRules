@@ -47,6 +47,7 @@ HOST-SUFFIX,sylvan.apple.com,PROXY
 HOST-KEYWORD,wikipedia,PROXY
 HOST-KEYWORD,bntrace,PROXY
 HOST-KEYWORD,bnbstatic,PROXY
+HOST-SUFFIX,mirror.xyz,PROXY
 #-----------------Information-----------------↑
 
 
