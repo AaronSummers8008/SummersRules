@@ -2,6 +2,12 @@
 # AUTHOR: AaronSummers8008
 
 # NAME: Direct
+#-----------------Apple-----------------↓
+HOST-SUFFIX,buy.itunes.apple.com,DIRECT
+HOST-SUFFIX,buy.itunes.apple.com,DIRECT
+HOST-SUFFIX,sylvan.apple.com,PROXY
+#-----------------Apple-----------------↑
+
 #-----------------微信-----------------↓
 HOST-KEYWORD,weixin,DIRECT
 HOST,dl.DIRECT.com,DIRECT
@@ -34,11 +40,7 @@ IP-CIDR,129.226.3.47/32,DIRECT
 IP-CIDR,162.62.163.63/32,DIRECT
 #-----------------微信-----------------↑
 
-#-----------------Apple-----------------↓
-HOST-SUFFIX,buy.itunes.apple.com,DIRECT
-HOST-SUFFIX,buy.itunes.apple.com,DIRECT
-HOST-SUFFIX,sylvan.apple.com,PROXY
-#-----------------Apple-----------------↑
+
 
 #-----------------Information-----------------↓
 HOST-KEYWORD,wikipedia,PROXY
