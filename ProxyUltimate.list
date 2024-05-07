@@ -72,6 +72,7 @@ HOST-SUFFIX,tushyraw.com,PROXY
 HOST-KEYWORD,linktree,JP
 HOST-KEYWORD,onlyfans,JP
 HOST-KEYWORD,mgstage,JP
+HOST-KEYWORD,hegre,PROXY
 
 # NAME: Games
 HOST-KEYWORD,steam,PROXY
@@ -154,8 +155,10 @@ HOST-KEYWORD,y-too,PROXY
 HOST-KEYWORD,oxycontin,PROXY
 HOST-SUFFIX,paofu.cloud,PROXY
 HOST-SUFFIX,v2ex.com,PROXY
+HOST-KEYWORD,wiki,PROXY
 #-----------------OpenAI-----------------↓
 DOMAIN-KEYWORD,openai,US
+DOMAIN-SUFFIX,chatgpt.com,US
 DOMAIN-SUFFIX,ai.com,US
 DOMAIN-SUFFIX,auth0.com,US
 DOMAIN-SUFFIX,challenges.cloudflare.com,US
