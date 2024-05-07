@@ -3,6 +3,7 @@
 
 # NAME: Direct
 #-----------------微信-----------------↓
+HOST-KEYWORD,weixin,DIRECT
 HOST,dl.DIRECT.com,DIRECT
 HOST,sgfindershort.DIRECT.com,DIRECT
 HOST,sgilinkshort.DIRECT.com,DIRECT
@@ -18,10 +19,6 @@ HOST-SUFFIX,tenpay.com,DIRECT
 HOST-SUFFIX,DIRECT.com,DIRECT
 HOST-SUFFIX,DIRECTlegal.net,DIRECT
 HOST-SUFFIX,DIRECTpay.com,DIRECT
-HOST-SUFFIX,weixin.com,DIRECT
-HOST-SUFFIX,weixin.qq.com,DIRECT
-HOST-SUFFIX,weixinbridge.com,DIRECT
-HOST-SUFFIX,weixinsxy.com,DIRECT
 HOST-SUFFIX,wxapp.tc.qq.com,DIRECT
 USER-AGENT,MicroMessenger*,DIRECT
 USER-AGENT,DIRECT*,DIRECT
@@ -51,7 +48,7 @@ HOST-SUFFIX,mirror.xyz,PROXY
 #-----------------Information-----------------↑
 
 
-# NAME: PornSite
+#-----------------Pornsite-----------------↓
 HOST-SUFFIX,pornhub.com,PROXY
 HOST-SUFFIX,hjd2048.com,PROXY
 HOST-SUFFIX,laowang.vip,PROXY
@@ -69,10 +66,11 @@ HOST-SUFFIX,vixen.com,PROXY
 HOST-SUFFIX,deeper.com,PROXY
 HOST-SUFFIX,tushy.com,PROXY
 HOST-SUFFIX,tushyraw.com,PROXY
-HOST-KEYWORD,linktree,JP
-HOST-KEYWORD,onlyfans,JP
+HOST-KEYWORD,linktree,PROXY
+HOST-KEYWORD,onlyfans,PROXY
 HOST-KEYWORD,mgstage,JP
 HOST-KEYWORD,hegre,PROXY
+#-----------------Pornsite-----------------↑
 
 # NAME: Games
 HOST-KEYWORD,steam,PROXY
@@ -102,9 +100,7 @@ HOST-SUFFIX,pscp.tv,PROXY
 HOST-SUFFIX,t.co,PROXY
 HOST-SUFFIX,tellapart.com,PROXY
 HOST-SUFFIX,tweetdeck.com,PROXY
-HOST-SUFFIX,twimg.co,PROXY
-HOST-SUFFIX,twimg.com,PROXY
-HOST-SUFFIX,twimg.org,PROXY
+HOST-KEYWORD,twimg,PROXY
 HOST-SUFFIX,twitpic.com,PROXY
 HOST-SUFFIX,PROXY.biz,PROXY
 HOST-SUFFIX,PROXY.com,PROXY
