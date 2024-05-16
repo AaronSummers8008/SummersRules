@@ -46,6 +46,7 @@ IP-CIDR,162.62.163.63/32,DIRECT
 HOST-KEYWORD,wikipedia,PROXY
 HOST-KEYWORD,bntrace,PROXY
 HOST-KEYWORD,bnbstatic,PROXY
+HOST-KEYWORD,gmail,PROXY
 HOST-SUFFIX,mirror.xyz,PROXY
 #-----------------Information-----------------↑
 
