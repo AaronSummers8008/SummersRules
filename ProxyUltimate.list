@@ -155,6 +155,8 @@ HOST-KEYWORD,oxycontin,PROXY
 HOST-SUFFIX,paofu.cloud,PROXY
 HOST-SUFFIX,v2ex.com,PROXY
 HOST-KEYWORD,wiki,PROXY
+HOST-KEYWORD,discord,PROXY
+
 #-----------------OpenAI-----------------↓
 DOMAIN-KEYWORD,openai,US
 DOMAIN-SUFFIX,chatgpt.com,US
