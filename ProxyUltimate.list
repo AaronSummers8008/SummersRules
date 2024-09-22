@@ -159,6 +159,7 @@ HOST-SUFFIX,paofu.cloud,PROXY
 HOST-SUFFIX,v2ex.com,PROXY
 HOST-KEYWORD,wiki,PROXY
 HOST-KEYWORD,discord,PROXY
+HOST-KEYWORD,notion,PROXY
 
 #-----------------OpenAI-----------------↓
 DOMAIN-KEYWORD,openai,US
