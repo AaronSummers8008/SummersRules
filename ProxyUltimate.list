@@ -160,6 +160,7 @@ HOST-SUFFIX,v2ex.com,PROXY
 HOST-KEYWORD,wiki,PROXY
 HOST-KEYWORD,discord,PROXY
 HOST-KEYWORD,notion,PROXY
+HOST-KEYWORD,一元机场,PROXY
 
 #-----------------OpenAI-----------------↓
 DOMAIN-KEYWORD,openai,US
