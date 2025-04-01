@@ -52,7 +52,7 @@ HOST-SUFFIX,mirror.xyz,PROXY
 #-----------------Information-----------------↑
 
 
-#-----------------Pornsite-----------------↓
+#-----------------🔞Pornsite-----------------↓
 HOST-SUFFIX,pornhub.com,US
 HOST-SUFFIX,xvideos.com,US
 HOST-SUFFIX,hjd2048.com,PROXY
@@ -89,6 +89,7 @@ HOST-KEYWORD,av-e-body,PROXY
 HOST-KEYWORD,fitch-av,PROXY
 HOST-KEYWORD,missav,PROXY
 HOST-KEYWORD,ghproxy,PROXY
+HOST-KEYWORD,pedia,PROXY
 
 #-----------------Pornsite-----------------↑
 
