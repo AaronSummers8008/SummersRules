@@ -8,6 +8,14 @@ HOST-SUFFIX,buy.itunes.apple.com,DIRECT
 HOST-SUFFIX,sylvan.apple.com,PROXY
 #-----------------Apple-----------------↑
 
+#-----------------Finance-----------------↓
+HOST-KEYWORD,interactivebrokers,PROXY
+#-----------------Finance-----------------↑
+
+#-----------------Shopping-----------------↓
+HOST-KEYWORD,amazon,PROXY
+#-----------------Shopping-----------------↑
+
 #-----------------微信-----------------↓
 HOST-KEYWORD,weixin,DIRECT
 HOST,dl.DIRECT.com,DIRECT
@@ -90,6 +98,8 @@ HOST-KEYWORD,fitch-av,PROXY
 HOST-KEYWORD,missav,PROXY
 HOST-KEYWORD,ghproxy,PROXY
 HOST-KEYWORD,pedia,PROXY
+HOST-KEYWORD,fastwave,PROXY
+
 
 #-----------------Pornsite-----------------↑
 
